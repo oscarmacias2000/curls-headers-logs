@@ -1,0 +1,989 @@
+
+[2025-11-27T01:22:55.169Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null
+
+Stdout: 
+
+
+[2025-11-27T01:23:00.056Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null
+
+Stdout: 
+
+
+[2025-11-27T01:23:05.087Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null
+
+Stdout: 
+
+
+[2025-11-27T01:23:10.059Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null
+
+Stdout: 
+
+
+[2025-11-27T01:23:15.121Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null
+
+Stdout: 
+
+
+[2025-11-27T01:25:00.341Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge 3 ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:25:05.336Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge 3 ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:25:10.333Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge 3 ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:26:11.017Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:26:16.025Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:26:21.031Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:26:26.018Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:26:31.014Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:29:59.099Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:30:04.077Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:30:09.080Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:30:14.082Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:30:19.090Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:30:24.102Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:30:29.113Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:30:34.129Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:30:39.146Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:30:44.123Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:30:49.130Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:30:54.155Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:30:59.167Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:31:04.169Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:31:09.175Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:31:14.167Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:31:19.163Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:31:24.176Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:31:29.181Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:31:34.176Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:31:39.185Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:31:44.223Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:31:49.210Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:31:54.225Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:31:59.239Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:32:04.248Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:32:09.254Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:32:14.257Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:32:19.244Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:40:09.539Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:40:34.537Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:40:39.500Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:40:44.506Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:40:49.498Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:45:45.860Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:45:50.819Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:45:55.821Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:46:00.825Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:46:05.836Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:46:10.840Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:46:15.861Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:46:20.863Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:46:25.863Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:46:30.873Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:46:35.879Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:46:40.889Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:46:45.892Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:46:50.897Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:46:55.907Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:47:00.916Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:47:05.924Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:47:10.930Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:47:15.935Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:47:20.949Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:47:25.956Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:47:30.958Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:47:35.967Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:47:40.971Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:47:45.996Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:47:50.988Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:47:55.987Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:48:01.008Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:48:06.013Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:48:11.008Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:48:16.012Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:48:21.049Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:48:26.049Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:48:31.031Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:48:36.034Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:48:41.056Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:48:46.053Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:48:51.056Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:48:56.071Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:49:01.060Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:49:06.086Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:49:11.088Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:49:16.111Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:49:21.101Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:49:26.127Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:49:31.141Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:49:36.129Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:49:41.144Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:49:46.151Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:49:51.153Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:49:56.159Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:50:01.186Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:50:06.183Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:50:11.219Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:50:16.209Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:50:21.216Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:50:26.214Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:50:31.236Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:50:36.251Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:50:41.240Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:50:46.253Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:50:51.264Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:50:56.271Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:51:01.271Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:51:06.295Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:51:11.295Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:51:16.307Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:51:21.293Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:51:26.306Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:51:31.327Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:51:36.331Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:51:41.354Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:51:46.337Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:51:51.337Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:51:56.338Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:52:01.343Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:52:06.374Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:52:11.367Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:52:16.376Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:52:21.378Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:52:26.402Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:52:31.403Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:52:36.411Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:52:41.420Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:52:46.433Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:52:51.433Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:52:56.466Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:53:01.453Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:53:06.478Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:53:11.468Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:53:16.474Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:53:21.476Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T01:53:26.490Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T07:40:18.760Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+
+
+[2025-11-27T07:40:23.757Z]
+Error: Command failed: curl -s -w "\n" "https://chatgpt.com/c/69279f58-ab30-832d-abbb-8ca857fe1d35" -o /dev/null -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" -H "Accept-Language: en-US,en;q=0.9" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Cache-Control: no-cache" -H "Pragma: no-cache" && echo "Log limit reached, cleaning logs..." && if [ $(wc -l < "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt") -ge C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt ]; then echo "" > "C:\Users\shaadow\Desktop\curls-headers\LogsFile.txt"; fi
+No se esperaba $(wc en este momento.
+
+Stderr: No se esperaba $(wc en este momento.
+

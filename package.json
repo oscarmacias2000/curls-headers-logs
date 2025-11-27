@@ -1,0 +1,15 @@
+{
+  "name": "curls-headers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "module": "commonjs",
+  "scripts": {
+    "module": "npx tsc --module es2020 index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
